@@ -1,0 +1,45 @@
+.img{
+  width:250px;
+  float: left;
+}
+
+.img img{
+  width:800px;
+  height:800px;
+  clip-path: polygon(0 0, 0 100%, 100% 49%);
+}
+.download{
+    color:red;
+    text-decoration:underline;
+
+}
+h3{
+    border-bottom: 6px solid green;
+    width: 90px;
+    line-height: 60px;
+}
+
+.middle_field{
+  width: 400px;
+  float: left;
+  margin-left: 700px;
+  margin-top: 160px;
+
+}
+
+.Top{
+  float: right;
+}
+
+.Top img{
+  width: 350px;
+  height: 90px;
+  float: left;
+}
+
+.Bottom_link{
+  float: left;
+  margin-top: 650px;
+  margin-left: 250px;
+
+}
